@@ -5,3 +5,11 @@ __pycache__/*
 model_003_ploho.pth
 model_004_ploho.pth
 model_002.pth
+text_clean.txt
+tensot.txt
+tensot.json
+photo.jpg
+last_checkpoint
+cleaning.py
+Train_text.txt
+Name_photo.csv
