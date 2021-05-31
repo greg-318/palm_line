@@ -7,7 +7,6 @@
 Препроцессинг 
 На всех 200-тах фотографиях разметил три осноные линии.
 
-![Image alt](https://github.com/greg-318/palm_line/main/Screenshot_1.png)
 
 ![Image alt](https://github.com/greg-318/palm_line/raw/main/Screenshot_1.png)
 
