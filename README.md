@@ -10,5 +10,8 @@
 
 ![Image alt](https://github.com/greg-318/palm_line/raw/main/PhotoMD/Screenshot_1.png)
 
+Вывод <br />
+Модель возвращает фото в котором размечены найденные линии и к какому классу линия принадлежит.
+
 ![Image alt](https://github.com/greg-318/palm_line/raw/main/PhotoMD/return_img.jpg)
 
