@@ -7,5 +7,5 @@
 Препроцессинг 
 На всех 200-тах фотографиях разметил три осноные линии.
 
-https://github.com/greg-318/palm_line/raw/main/image.png
+https://github.com/greg-318/palm_line/main/image.png
 
